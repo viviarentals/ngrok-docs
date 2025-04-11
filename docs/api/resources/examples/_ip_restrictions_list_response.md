@@ -1,25 +1,22 @@
 <!-- Code generated for API Clients. DO NOT EDIT. -->
-
 #### Example Response
-
 ```json
 {
-	"ip_restrictions": [
-		{
-			"created_at": "2025-03-26T10:06:59Z",
-			"enforced": false,
-			"id": "ipx_2uqkicXCbU2CClDXxWH6fqdENIw",
-			"ip_policies": [
-				{
-					"id": "ipp_2uqkibk3MhWCHbjKPiia7nPFXtk",
-					"uri": "https://api.ngrok.com/ip_policies/ipp_2uqkibk3MhWCHbjKPiia7nPFXtk"
-				}
-			],
-			"type": "dashboard",
-			"uri": "https://api.ngrok.com/ip_restrictions/ipx_2uqkicXCbU2CClDXxWH6fqdENIw"
-		}
-	],
-	"next_page_uri": null,
-	"uri": "https://api.ngrok.com/ip_restrictions"
+  "ip_restrictions": [
+    {
+      "created_at": "2025-04-11T03:22:33Z",
+      "enforced": false,
+      "id": "ipx_2vZ9VYjDesmLrH0iM9LJFnmczEk",
+      "ip_policies": [
+        {
+          "id": "ipp_2vZ9Vd2v0J40Vd1suoZIk5azYZN",
+          "uri": "https://api.ngrok.com/ip_policies/ipp_2vZ9Vd2v0J40Vd1suoZIk5azYZN"
+        }
+      ],
+      "type": "dashboard",
+      "uri": "https://api.ngrok.com/ip_restrictions/ipx_2vZ9VYjDesmLrH0iM9LJFnmczEk"
+    }
+  ],
+  "next_page_uri": null,
+  "uri": "https://api.ngrok.com/ip_restrictions"
 }
-```

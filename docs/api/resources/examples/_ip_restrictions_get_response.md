@@ -1,23 +1,20 @@
 <!-- Code generated for API Clients. DO NOT EDIT. -->
-
 #### Example Response
-
 ```json
 {
-	"created_at": "2025-03-26T10:06:59Z",
-	"enforced": false,
-	"id": "ipx_2uqkicXCbU2CClDXxWH6fqdENIw",
-	"ip_policies": [
-		{
-			"id": "ipp_2uqkibk3MhWCHbjKPiia7nPFXtk",
-			"uri": "https://api.ngrok.com/ip_policies/ipp_2uqkibk3MhWCHbjKPiia7nPFXtk"
-		},
-		{
-			"id": "ipp_2uqkiX8azfD9SnA83iaZZAOPxx2",
-			"uri": "https://api.ngrok.com/ip_policies/ipp_2uqkiX8azfD9SnA83iaZZAOPxx2"
-		}
-	],
-	"type": "dashboard",
-	"uri": "https://api.ngrok.com/ip_restrictions/ipx_2uqkicXCbU2CClDXxWH6fqdENIw"
+  "created_at": "2025-04-11T03:22:33Z",
+  "enforced": false,
+  "id": "ipx_2vZ9VYjDesmLrH0iM9LJFnmczEk",
+  "ip_policies": [
+    {
+      "id": "ipp_2vZ9Vd2v0J40Vd1suoZIk5azYZN",
+      "uri": "https://api.ngrok.com/ip_policies/ipp_2vZ9Vd2v0J40Vd1suoZIk5azYZN"
+    },
+    {
+      "id": "ipp_2vZ9VfH82zlXvKTNzI1Nvg2qT2J",
+      "uri": "https://api.ngrok.com/ip_policies/ipp_2vZ9VfH82zlXvKTNzI1Nvg2qT2J"
+    }
+  ],
+  "type": "dashboard",
+  "uri": "https://api.ngrok.com/ip_restrictions/ipx_2vZ9VYjDesmLrH0iM9LJFnmczEk"
 }
-```
