@@ -1,13 +1,10 @@
 <!-- Code generated for API Clients. DO NOT EDIT. -->
-
 #### Example Request
-
 ```bash
 curl \
 -X PUT \
 -H "Authorization: Bearer {API_KEY}" \
 -H "Content-Type: application/json" \
 -H "Ngrok-Version: 2" \
--d '{"certificate_authority_ids":["ca_2uqkiYMnejccAmT7FW6ZPBZmpZM"],"enabled":true}' \
-https://api.ngrok.com/endpoint_configurations/ec_2uqkibl9X1nUljEi1j7ZsP02NXT/mutual_tls
-```
+-d '{"certificate_authority_ids":["ca_2vZITGsmkqg9c0QBtq38LZESzKv"],"enabled":true}' \
+https://api.ngrok.com/endpoint_configurations/ec_2vZITEPByHziu7dbk5hYPy26127/mutual_tls
