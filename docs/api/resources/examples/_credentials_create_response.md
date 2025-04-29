@@ -4,12 +4,12 @@
 
 ```json
 {
-	"acl": [],
-	"created_at": "2025-04-25T22:55:13Z",
-	"description": "development cred for alan@example.com",
-	"id": "cr_2wEzqgScITEbO0CfwEJ8WQbjGxo",
-	"owner_id": "usr_2wEzqavPsqhEJcM6Mes5PsXNAPe",
-	"token": "2wEzqgScITEbO0CfwEJ8WQbjGxo_6B3Tg14h5BmGKF5TZYTsR",
-	"uri": "https://api.ngrok.com/credentials/cr_2wEzqgScITEbO0CfwEJ8WQbjGxo"
+  "acl": [],
+  "created_at": "2025-04-29T10:06:48Z",
+  "description": "development cred for alan@example.com",
+  "id": "cr_2wOmtWB5y31SAV27IDPw0KCJQr8",
+  "owner_id": "usr_2wOmtFZ37QCko4eZX5908z2wiHM",
+  "token": "2wOmtWB5y31SAV27IDPw0KCJQr8_3XteoU2Nkd7o36iXcewKi",
+  "uri": "https://api.ngrok.com/credentials/cr_2wOmtWB5y31SAV27IDPw0KCJQr8"
 }
 ```
